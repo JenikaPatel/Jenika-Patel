@@ -36,9 +36,8 @@
 **TBD**
 
 # Detail requirements
-## High Level Requirements:
---- TBD in Tabular Format 
--- ID | Description | Status (Implemented/Future)
+## High Level Requirements
+)
 
 
 ##  Low level Requirements:
