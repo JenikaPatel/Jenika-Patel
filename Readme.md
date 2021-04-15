@@ -1,6 +1,6 @@
 # Requirements
 ## Introduction
- --- TBD 
+ customer billing system is an application which will allow the authorised person to keep the records of the customer, modify, add or delete whenever want to.
 
 ## Research
 ![Description](Link to Pic)
